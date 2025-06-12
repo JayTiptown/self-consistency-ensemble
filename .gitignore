@@ -175,3 +175,4 @@ cython_debug/
 data/
 runs/
 enn_halueval_model.pt
+truthful_qa_cache.pkl
